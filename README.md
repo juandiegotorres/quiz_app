@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+![Pantalla de inicio](https://github.com/juandiegotorres/quiz_app/blob/master/assets/img/start_screen.png)
+![Pantalla preguntas](https://github.com/juandiegotorres/quiz_app/blob/master/assets/img/question_screen.png)
+![Pantalla resultados](https://github.com/juandiegotorres/quiz_app/blob/master/assets/img/result_screen.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
